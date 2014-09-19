@@ -9,5 +9,12 @@
          url('/content/fonts/xolonium-regular-webfont.svg#xoloniumregular') format('svg');
     font-weight: normal;
     font-style: normal;
+}
 
+@mixin coder-font() {
+	font-family: "xoloniumregular";	
+};
+
+.coder-font{
+	@include coder-font();
 }

@@ -19,6 +19,12 @@ h6, .h6 {
   color: #333;
 }
 
+h1, .h1
+h2, .h2
+{
+  @include coder-font();
+}
+
 
 /*
  * Override Bootstrap's default container.
@@ -48,6 +54,7 @@ h6, .h6 {
   padding: 10px;
   font-weight: 500;
   color: #cdddeb;
+  @include coder-font();
 }
 .blog-nav-item:hover,
 .blog-nav-item:focus {
