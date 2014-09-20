@@ -1,8 +1,11 @@
 ---
 layout: default
+ishome: true
 ---
 
+ 
 <div class="home">
+
 
   <h2>Posts</h2>
 
@@ -11,7 +14,7 @@ layout: default
 
       <article>
         <header>
-          <div><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+          <div><a class="post-link" href="{{ post.url | prepend: site.baseurl }}#">{{ post.title }}</a></div>
           <div><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></div>
         </header>
         

@@ -1,7 +1,7 @@
 [ ] Fix layouts
-	[ ] title
-	[ ] description
-	[ ] avatar
+	[x] title
+	[x] description
+	[x] avatar
 [ ] Add Disgus
 [ ] Google analytics
 [ ] Ads

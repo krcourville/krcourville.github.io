@@ -1,3 +1,5 @@
+---
+---
 I run across lots of people who could save a little time and RSI by not reaching for the mouse quite as much.
 
 Here are some shortcuts I use most often. These shortcuts work in IE, Firefox, and Chrome as well as some other Windows applications.

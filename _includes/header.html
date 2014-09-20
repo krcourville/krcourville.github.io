@@ -1,10 +1,14 @@
 <div class="blog-masthead">
     <div class="container">
         <nav class="blog-nav">
-            <a class="blog-nav-item active" href="/">Home</a>
-            {% for page in site.pages %} {% if page.title %}
+        {% unless page.ishome %}
+            <a class="blog-nav-item" href="/">Coder Ken</a>
+        {% endunless %}
+            {% for page in site.pages %} 
+            {% if page.title %}
             <a class="blog-nav-item" href="{{ page.url }}">{{ page.title }}</a>
-            {% endif %} {% endfor %}
+            {% endif %} 
+            {% endfor %}
         </nav>
     </div>
 </div>
