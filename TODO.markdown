@@ -4,7 +4,7 @@
 	[x] avatar
 [x] Add Disgus
 [x] Google analytics
-[ ] Ads
+[x] Ads
 [ ] Add RSS Subscribe
 [ ] Add facebook link
 [ ] Add Twitter link
