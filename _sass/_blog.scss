@@ -36,6 +36,15 @@ h2, .h2
   }
 }
 
+.avatar-home {
+  background-image: url("../content/images/avatar_96x96.png");
+  height:96px;
+  width:96px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  display:inline-block;
+}
+
 
 /*
  * Masthead for nav
