@@ -2,8 +2,8 @@
 	[x] title
 	[x] description
 	[x] avatar
-[ ] Add Disgus
-[ ] Google analytics
+[x] Add Disgus
+[x] Google analytics
 [ ] Ads
 [ ] Add RSS Subscribe
 [ ] Add facebook link
