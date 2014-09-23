@@ -1,8 +1,8 @@
-[ ] Fix layouts
+[x] Fix layouts
 	[x] title
 	[x] description
 	[x] avatar
-[ ] Add Disgus
+[x] Add Disgus
 [ ] Google analytics
 [ ] Ads
 [ ] Add RSS Subscribe
