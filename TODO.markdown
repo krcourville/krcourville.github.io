@@ -3,8 +3,8 @@
 	[x] description
 	[x] avatar
 [x] Add Disgus
-[ ] Google analytics
-[ ] Ads
+[x] Google analytics
+[x] Ads
 [ ] Add RSS Subscribe
 [ ] Add facebook link
 [ ] Add Twitter link
