@@ -5,8 +5,7 @@ categories: jekyll update
 
 Below are a few resources I consult on a regular basis to learn about new techniques and evolving technologies.  There's many I'm forgetting, so I'll keep adding to this list over time.
 
-* The Morning Brew
-	* http://blog.cwa.me.uk/
+* [The Morning Brew](http://blog.cwa.me.uk/)
 	* An aggregate of .NET news. Content is published almost every weekday.	
 * Hacker Newsletter
 	* http://www.hackernewsletter.com/
