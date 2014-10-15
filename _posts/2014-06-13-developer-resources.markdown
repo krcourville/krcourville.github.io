@@ -11,5 +11,6 @@ Below are a few resources I consult on a regular basis to learn about new techni
 * [Scott Hanselman](http://www.hanselman.com/): I learned TONS from this dude.  Be sure to check out his [Ultimate Developer and Power Tools list](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx).
 * [Code School](https://www.codeschool.com/): Interactive learning online.  Some courses are free or sponsored.  Others require a monthly subscription.
 * [Pluralsight](http://pluralsight.com/training): Training videos on many topics: programming, sys admin, business, architecting, creative..
+* [Adventures in Angular - Picks](http://devchat.tv/adventures-in-angular/picks): Cool stuff, usually of interest to programmers
     
     
