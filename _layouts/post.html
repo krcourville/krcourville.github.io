@@ -13,9 +13,12 @@ layout: default
 
   <article class="post-content">
     {{ content }}
-
+   
+   {% include follow.html %}
+   
     <div id="disqus_thread" data-disqus-shortname="coderken" data-disqus-url="{{ post.url }}"></div>
     {% include adsense.html %}
   </article>
+  
 
 </div>

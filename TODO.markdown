@@ -6,9 +6,7 @@
 [x] Google analytics
 [x] Ads
 [ ] Add RSS Subscribe
-[ ] Add facebook link
-[ ] Add Twitter link
-[ ] Add email form
+[x] Add facebook link
+[x] Add Twitter link
+[x] Add email form
 [ ] Archives
-[ ] topics?
-[ ]
