@@ -21,6 +21,12 @@ Email is making a comeback. I skim this newsletters regularly for topics of inte
 * [FrontEnd Focus](http://frontendfocus.co)
 * [JavaScript Weekly](http://frontendfocus.co/)
 * [Mobile Web Weekly](https://mobilewebweekly.com)
+* [Software Engineering Daily](https://softwareengineeringdaily.com)
+
+## Podcasts
+
+* [.NET Rocks](https://www.dotnetrocks.com)
+* 
 
 ## Medium
 
