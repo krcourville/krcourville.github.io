@@ -28,7 +28,7 @@ Email is making a comeback. I skim this newsletters regularly for topics of inte
 * [Software Engineering Daily](https://softwareengineeringdaily.com)
 * [.NET Rocks](https://www.dotnetrocks.com)
 
-## Medium
+## [Medium](https://medium.com/)
 
 Just try it.  Pick topics you want to learn about and go!
 
