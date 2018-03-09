@@ -3,7 +3,7 @@ layout: post
 categories: meetup photo downloader mpdl easy photo download
 ---
 
-Several years ago, I created [Meetup Photo Download(MPDL)](https://github.com/krcourville/meetup-photo-download) as an experiment learn how to consume HTTP REST services.  The functionality for MPDL re-vamped and re-created as a commercial application.  If this is all you need to know, please navigate to the product landing page now:  
+Several years ago, I created [Meetup Photo Download(MPDL)](https://github.com/krcourville/meetup-photo-download) as an experiment in learning how to consume HTTP REST services.  Now, the functionality of MPDL has re-vamped and re-created as a commercial application.  If this is all you need to know, please navigate to the product landing page now:  
 
 **[Get Easy Photo Downloader Now!](https://easydownload.photos)**
 
