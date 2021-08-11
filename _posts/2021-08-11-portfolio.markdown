@@ -161,6 +161,8 @@ Multiple Releases: 2018-2019
 - Angular
 - AWS: EC2, Lambda, DynamoDB, SNS, SQS
 - Sparkpost
+- Solr
+- Elasticsearch
 
 * Docker
 * Testing: unit, integration, e2e, performance/load
@@ -171,6 +173,7 @@ Multiple Releases: 2018-2019
 - Applied best practices to ensure ES cluster was fault-tolerant across availability zones.
 - Migrated job search index from dice.com legacy services to a multi-tenant solution, shared with efinancialcareers.com.
 - Created a new job ingestion pipeline using event-driven practices.
+- Created tooling to assist in debugging search result relevance using visualization, http://splainer.io, and equivalence classes.
 
 ### MilesAhead
 
