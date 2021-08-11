@@ -25,6 +25,13 @@ h2, .h2
   @include coder-font();
 }
 
+h2 
+{
+  margin-top: 1em;
+  border-bottom: solid #555 1px;
+  padding-bottom: 0.25em;
+}
+
 
 /*
  * Override Bootstrap's default container.
