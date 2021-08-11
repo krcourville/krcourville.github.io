@@ -75,7 +75,7 @@ Released: April 2021
 - Updated Python-based CI process to perform ES index configuration updates with zero downtime.
 - Migrated the C#-based API from Docker/EC2 to Lambda
   - Greatly reduced complexity and increased scalability of deployment.
-  - Slightly reduced the average latency for job search api calls.
+  - Slightly reduced the average latency for job search API calls.
 - Reviewed and patched up monitoring.
 
 ## Candidate Profile Refresh
@@ -183,7 +183,7 @@ Proof of Concept Released: 2017
 - HTML, SASS
 - Azure: web applications
 - feathers.js
-- websockets
+- WebSockets
 - Android
 - Push notifications
 - Cordova
