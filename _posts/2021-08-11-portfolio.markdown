@@ -10,6 +10,16 @@ categories: projects portfolio
 - TOC
 {:toc}
 
+## Introduction
+
+Hello! How are you?
+
+Below, you will be able to explore some of the more recent projects.  I tend to keep my resume' most up-to-date here: <https://stackoverflow.com/cv/krcourville>
+
+You can find me on:
+
+* Twitter: @krcourville
+* LinkedIn: <https://www.linkedin.com/in/ken-courville-5220734/>
 ## About Me
 
 - [About Ken](https://youtu.be/OW6yPJLEgt8)
