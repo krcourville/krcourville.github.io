@@ -20,6 +20,7 @@ You can find me on:
 
 * Twitter: @krcourville
 * LinkedIn: <https://www.linkedin.com/in/ken-courville-5220734/>
+
 ## About Me
 
 - [About Ken](https://youtu.be/OW6yPJLEgt8)
