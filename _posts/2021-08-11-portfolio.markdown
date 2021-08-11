@@ -102,10 +102,6 @@ Released: March 2021
 - Developed, from scratch, re-usable web components while applying accessibility guidelines. Examples: autocomplete/typeahead, progress circle
 - Utilized CSS custom props to allow components to be themed.
 
-### Screenshot
-
-![dice.com Candidate Profile Header]({{site.baseurl}}/assets/img/candidate-profile-01.png)
-
 ## Job Alerts
 
 Multiple releases: 2019-2020
