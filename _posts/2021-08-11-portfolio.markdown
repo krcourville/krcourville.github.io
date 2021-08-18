@@ -14,14 +14,19 @@ categories: projects portfolio
 
 Hello! How are you?
 
-Below, you will be able to explore some of the more recent projects.  I tend to keep my resume' most up-to-date here: <https://stackoverflow.com/cv/krcourville>
+Below, you will be able to explore some of the more recent projects.  
 
-You can find me on:
+## My Resume
+
+* [Online Version](https://stackoverflow.com/cv/krcourville) (This one is usually the most up-to-date)
+* [PDF version](/assets/files/ken-courville-resume.pdf) (for downloading and printing)
+
+## Social Links
 
 * Twitter: @krcourville
 * LinkedIn: <https://www.linkedin.com/in/ken-courville-5220734/>
 
-## About Me
+## More About Me
 
 - [About Ken](https://youtu.be/OW6yPJLEgt8)
   : An intro video I put together a while back. I do not run anymore and stick to low-impact activities.
