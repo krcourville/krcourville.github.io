@@ -5,10 +5,8 @@ categories: projects portfolio
 
 ## Contents
 
-{:.no_toc}
-
 - TOC
-  {:toc}
+{:toc}
 
 ## Introduction
 
