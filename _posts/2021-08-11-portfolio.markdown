@@ -8,30 +8,29 @@ categories: projects portfolio
 {:.no_toc}
 
 - TOC
-{:toc}
+  {:toc}
 
 ## Introduction
 
 Hello! How are you?
 
-Below, you will be able to explore some of the more recent projects.  
+Below, you will be able to explore some of the more recent projects.
 
 ## My Resume
 
-* [Online Version](https://stackoverflow.com/cv/krcourville) (This one is usually the most up-to-date)
-* [PDF version](/assets/files/ken-courville-resume.pdf) (for downloading and printing)
+Please find my printer-friendly résumé here : [https://www.coderken.com/cv/](/cv/)
+
+> NOTE: Styling has not yet been optimized for mobile potrait viewing.
 
 ## Social Links
 
-* Twitter: @krcourville
-* LinkedIn: <https://www.linkedin.com/in/ken-courville-5220734/>
+- Twitter: @krcourville
+- LinkedIn: <https://www.linkedin.com/in/ken-courville-5220734/>
 
 ## More About Me
 
 - [About Ken](https://youtu.be/OW6yPJLEgt8)
   : An intro video I put together a while back. I do not run anymore and stick to low-impact activities.
-- [Developer Story](https://stackoverflow.com/story/krcourville)
-  : Created via Stackoverflow.
 - [Github account](https://github.com/krcourville)
   : Mostly, this is my playground for coding.
 
@@ -67,8 +66,6 @@ May 2020 - Now
 * Docker
 * Splunk
 * Testing: unit, integration, e2e, performance/load
-
-
 
 ## Elasticsearch 5.4 to 7 Upgrade
 
@@ -213,7 +210,6 @@ Proof of Concept Released: 2017
 - Created shared UI and auth components for use in web and mobile clients.
 - Implemented a generic configuration system to enable customers to customize client display options and terminology.
 
-
 ## Miami Dade County Water and Sewer Department
 
 Multiple releases: 2016-2017
@@ -234,6 +230,6 @@ Multiple releases: 2016-2017
 
 ### Accomplishments
 
-- Created a custom Work Management mobile client with integrations to 
-Infor EAM and [Blue Dot Cyan platform](https://www.bluedotsolutions.com/cyan-stack/).
+- Created a custom Work Management mobile client with integrations to
+  Infor EAM and [Blue Dot Cyan platform](https://www.bluedotsolutions.com/cyan-stack/).
 - Integrated offline GIS data to allow side-by-side viewing of assets and work orders.
