@@ -6,7 +6,7 @@ categories: projects portfolio
 ## Contents
 
 - TOC
-{:toc}
+  {:toc}
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Below, you will be able to explore some of the more recent projects.
 
 ## My Resume
 
-Please find my printer-friendly résumé here : [https://www.coderken.com/cv/](/cv/)
+Please find my résumé here : [https://www.coderken.com/cv/](/cv/)
 
 ## Social Links
 
