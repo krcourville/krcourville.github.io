@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Resume Selection
+title: Ken Courville - Résumé Selection
 permalink: /cv/
 ---
 
-Please find your preferred resume length and format below.
+Please find your preferred résumé length and format below.
 
 **Option A:** _I only have a minute_ [[html]](onepage.html) [[pdf]](ken-courville-cv-one-page.pdf)
 
