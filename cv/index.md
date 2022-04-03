@@ -4,9 +4,10 @@ title: Resume Selection
 permalink: /cv/
 ---
 
-Please choose one:
+Please find your preferred resume length and format below.
 
-- [One Page](onepage.html)
-- [One Page (PDF)](ken-courville-cv-one-page.pdf)
-- [Fully Detailed Resume](full.html)
-- [Fully Detailed Resume](ken-courville-cv.pdf)
+**Option A:** _I only have a minute_ [[html]](onepage.html) [[pdf]](ken-courville-cv-one-page.pdf)
+
+**Option B:** _I need *all* of the juicy details_ [[html]](full.html) [[pdf]](ken-courville-cv.pdf)
+
+Let me know if you need something else!
