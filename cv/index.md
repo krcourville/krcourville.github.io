@@ -4,8 +4,8 @@ title: Resume Selection
 permalink: /cv/
 ---
 
-Please choose one (both are printer friendly):
+Please choose one:
 
 - [One Page](onepage.html)
 - [One Page (PDF)](ken-courville-cv-one-page.pdf)
-- [Full Size](full.html)
+- [Fully Detailed Resume](full.html)
