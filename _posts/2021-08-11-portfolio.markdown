@@ -6,7 +6,7 @@ categories: projects portfolio
 ## Contents
 
 - TOC
-  {:toc}
+{:toc}
 
 ## Introduction
 
