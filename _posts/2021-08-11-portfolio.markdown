@@ -6,7 +6,7 @@ categories: projects portfolio
 ## Contents
 
 - TOC
-{:toc}
+  {:toc}
 
 ## Introduction
 
@@ -134,6 +134,8 @@ Multiple releases: 2019-2020
 - Identified metrics and created reporting to track job alert feature usage and identify areas for improvement.
 
 ## Easy Photo Downloader
+
+> NOTE: In February 2022, Meetup changed its API to GraphQL (not a big deal) and made it available only to paid members (big deal). Based on this change and after considering a cost-benefit analysis of this project, `Easy Photo Downloader` has been unpublished and is no longer supported. However, source code is available upon request.
 
 ### Highlights
 
